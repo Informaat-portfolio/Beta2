@@ -1,0 +1,14 @@
+
+
+nav.main_menu > ul > li > a:hover span { color: #619ab0; }
+header.sticky nav.main_menu > ul > li > a:hover span {
+    color: #619ab0 !important;
+}
+
+h2.wpb_heading {
+    font-size: 20px;
+    line-height: 1.384615384615385em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
